@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/English-Dictionary/static/css/main.dd85118c.css",
+    "main.js": "/English-Dictionary/static/js/main.ed988e30.js",
+    "static/js/787.b2458070.chunk.js": "/English-Dictionary/static/js/787.b2458070.chunk.js",
+    "static/media/logo.svg": "/English-Dictionary/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/English-Dictionary/index.html",
+    "main.dd85118c.css.map": "/English-Dictionary/static/css/main.dd85118c.css.map",
+    "main.ed988e30.js.map": "/English-Dictionary/static/js/main.ed988e30.js.map",
+    "787.b2458070.chunk.js.map": "/English-Dictionary/static/js/787.b2458070.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd85118c.css",
+    "static/js/main.ed988e30.js"
+  ]
+}
